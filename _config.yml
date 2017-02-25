@@ -70,3 +70,4 @@ theme: bootstrap-blog
 deploy:
   type: git
   repo: git@github.com:codenergic/codenergic.github.io.git
+  branch: master
